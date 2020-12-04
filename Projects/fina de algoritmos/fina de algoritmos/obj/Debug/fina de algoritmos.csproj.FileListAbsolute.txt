@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\fina de algoritmos\fina de algoritmos\bin\Debug\fina de algoritmos.exe.config
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\fina de algoritmos\fina de algoritmos\bin\Debug\fina de algoritmos.exe
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\fina de algoritmos\fina de algoritmos\bin\Debug\fina de algoritmos.pdb
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\fina de algoritmos\fina de algoritmos\obj\Debug\fina de algoritmos.csprojResolveAssemblyReference.cache
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\fina de algoritmos\fina de algoritmos\obj\Debug\fina de algoritmos.exe
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\fina de algoritmos\fina de algoritmos\obj\Debug\fina de algoritmos.pdb

@@ -1,0 +1,2 @@
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicio 3\ejercicio 3\bin\Debug\ejercicio 3.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\ejercicio 3\ejercicio 3\obj\Debug\ejercicio 3.csprojResolveAssemblyReference.cache

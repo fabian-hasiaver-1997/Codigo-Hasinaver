@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\practica 9\practica 9\bin\Debug\practica 9.exe.config
+C:\Users\fabian\documents\visual studio 2012\Projects\practica 9\practica 9\obj\Debug\practica 9.csprojResolveAssemblyReference.cache
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\practica 9\practica 9\bin\Debug\practica 9.exe
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\practica 9\practica 9\bin\Debug\practica 9.pdb
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\practica 9\practica 9\obj\Debug\practica 9.exe
+C:\Users\fabian\Documents\Visual Studio 2012\Projects\practica 9\practica 9\obj\Debug\practica 9.pdb

@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\bin\Debug\alexis.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\bin\Debug\alexis.exe
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\bin\Debug\alexis.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\obj\Debug\alexis.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\obj\Debug\alexis.exe
+c:\users\fabian\documents\visual studio 2012\Projects\alexis\alexis\obj\Debug\alexis.pdb

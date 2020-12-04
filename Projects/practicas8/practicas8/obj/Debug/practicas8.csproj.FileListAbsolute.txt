@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\bin\Debug\practicas8.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\obj\Debug\practicas8.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\bin\Debug\practicas8.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\bin\Debug\practicas8.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\obj\Debug\practicas8.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practicas8\practicas8\obj\Debug\practicas8.pdb

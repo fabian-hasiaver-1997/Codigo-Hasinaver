@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\bin\Debug\practica parcial.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\bin\Debug\practica parcial.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\bin\Debug\practica parcial.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\obj\Debug\practica parcial.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\obj\Debug\practica parcial.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practica parcial\practica parcial\obj\Debug\practica parcial.pdb

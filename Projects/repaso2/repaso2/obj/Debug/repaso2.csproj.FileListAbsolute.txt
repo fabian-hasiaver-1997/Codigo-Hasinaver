@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\bin\Debug\repaso2.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\bin\Debug\repaso2.exe
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\bin\Debug\repaso2.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\obj\Debug\repaso2.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\obj\Debug\repaso2.exe
+c:\users\fabian\documents\visual studio 2012\Projects\repaso2\repaso2\obj\Debug\repaso2.pdb

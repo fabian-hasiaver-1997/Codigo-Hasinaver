@@ -1,0 +1,5 @@
+c:\users\fabian\documents\visual studio 2012\Projects\buscarnombre\buscarnombre\bin\Debug\buscarnombre.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\buscarnombre\buscarnombre\bin\Debug\buscarnombre.exe
+c:\users\fabian\documents\visual studio 2012\Projects\buscarnombre\buscarnombre\bin\Debug\buscarnombre.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\buscarnombre\buscarnombre\obj\Debug\buscarnombre.exe
+c:\users\fabian\documents\visual studio 2012\Projects\buscarnombre\buscarnombre\obj\Debug\buscarnombre.pdb

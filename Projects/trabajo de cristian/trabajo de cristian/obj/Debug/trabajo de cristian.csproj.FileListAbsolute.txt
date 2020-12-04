@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\bin\Debug\trabajo de cristian.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\obj\Debug\trabajo de cristian.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\bin\Debug\trabajo de cristian.exe
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\bin\Debug\trabajo de cristian.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\obj\Debug\trabajo de cristian.exe
+c:\users\fabian\documents\visual studio 2012\Projects\trabajo de cristian\trabajo de cristian\obj\Debug\trabajo de cristian.pdb

@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\bin\Debug\practicas7.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\bin\Debug\practicas7.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\bin\Debug\practicas7.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\obj\Debug\practicas7.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\obj\Debug\practicas7.exe
+c:\users\fabian\documents\visual studio 2012\Projects\practicas7\practicas7\obj\Debug\practicas7.pdb

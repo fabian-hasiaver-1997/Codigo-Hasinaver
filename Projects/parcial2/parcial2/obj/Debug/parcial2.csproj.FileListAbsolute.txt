@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\bin\Debug\parcial2.exe.config
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\bin\Debug\parcial2.exe
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\bin\Debug\parcial2.pdb
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\obj\Debug\parcial2.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\obj\Debug\parcial2.exe
+c:\users\fabian\documents\visual studio 2012\Projects\parcial2\parcial2\obj\Debug\parcial2.pdb

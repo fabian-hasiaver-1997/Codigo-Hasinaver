@@ -1,0 +1,6 @@
+c:\users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\bin\Debug\practicas 13.exe.config
+C:\Users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\obj\Debug\practicas 13.csprojResolveAssemblyReference.cache
+C:\Users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\bin\Debug\practicas 13.exe
+C:\Users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\bin\Debug\practicas 13.pdb
+C:\Users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\obj\Debug\practicas 13.exe
+C:\Users\fabian\documents\visual studio 2012\Projects\practicas 13\practicas 13\obj\Debug\practicas 13.pdb

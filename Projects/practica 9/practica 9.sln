@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica 9", "practica 9\practica 9.csproj", "{C12FD822-9508-434D-8016-52C0DDE9C2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12FD822-9508-434D-8016-52C0DDE9C2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12FD822-9508-434D-8016-52C0DDE9C2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12FD822-9508-434D-8016-52C0DDE9C2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12FD822-9508-434D-8016-52C0DDE9C2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
